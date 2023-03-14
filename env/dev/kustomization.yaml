@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/<username>/demo-app
-  newTag: latest
+  newTag: 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
