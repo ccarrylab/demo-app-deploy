@@ -5,10 +5,7 @@ on:
       - main
 
 jobs:
-  
-      
-
-   promote-image-change:
+ promote-image-change:
      runs-on: ubuntu-latest
      permissions:
        pull-requests: write
